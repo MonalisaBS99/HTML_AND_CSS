@@ -1,0 +1,15 @@
+
+.t{
+    font-size: 40px;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    font-family:'Lucida Sans';
+}
+.u{
+    font-size:25px;
+    text-align: center;
+}
+.o{
+    text-decoration: underline;
+}
