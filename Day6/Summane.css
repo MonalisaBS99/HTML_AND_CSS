@@ -1,0 +1,11 @@
+.ok:hover{
+   
+    border-color: blue;
+    color:gray;
+    border-radius: 3px;
+    }
+.ok{
+    width:100px;
+    height:30px;
+    transition: border-color 0.15s,color 0.15s;
+}
