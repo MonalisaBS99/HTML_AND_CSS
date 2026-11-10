@@ -1,0 +1,39 @@
+.google{
+        margin:0px 100px 0px 100px;
+    }
+    .l{
+        width:700px;
+        height:40px;
+        border-radius: 30px;
+    
+        border-color: black;
+        border-style: solid;
+        padding-left:20px;
+        font-size: 20px;
+        display:block
+    
+    }
+    .ok{
+        margin-top:40px;
+width:150px;
+height: 40px;
+display:inline-block;
+margin-left:50px;
+color:black;
+font-weight: bold;
+border:none;
+font-size:medium;color:rgb(59, 57, 57);
+    }
+    .gs{
+margin-top:40px;
+width:150px;
+height: 40px;
+display:inline-block;
+font-weight: bold;
+border:none;
+font-size:medium;
+color:rgb(59, 57, 57);
+    }
+    .Div1{
+        text-align: center;
+    }
