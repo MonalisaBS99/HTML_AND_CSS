@@ -1,0 +1,37 @@
+.img1{
+    width:250px;
+    height:114px;
+    margin:0;
+    object-fit: contain;
+   overflow: hidden;
+    margin-right: 10px;
+
+}
+.main{
+    display:flex;
+    margin-bottom: 18px;
+}
+.title1{
+    width:350px;
+    font-weight: 700;
+    font-size:26px;
+    margin:0;
+    font-family: roboto;
+    vertical-align: middle;
+
+}
+p{
+    margin:0;
+    vertical-align: middle;
+}
+.channel{
+font-family: roboto;
+color:gray;
+margin-top: 9px;
+
+}
+.vies{
+    color:gray;
+    margin-top: 6px;
+}
+
