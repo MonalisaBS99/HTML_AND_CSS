@@ -1,0 +1,21 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    margin-bottom: 10px;
+}
+.h{
+    flex:1;
+    font-family: Cambria;
+    font-weight: bold;
+}
+.b{
+    width:200px;
+}button{
+    background-color: rgb(62, 62, 170);
+    border:none;
+    padding:5px 10px 5px 10px;
+    border-radius: 20px;
+    color: white;
+    width:60px;
+}
