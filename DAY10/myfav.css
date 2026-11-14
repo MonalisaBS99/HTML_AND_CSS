@@ -1,0 +1,68 @@
+.mainbox{
+    display: flex;
+    flex-direction: column;
+}
+.inbox{
+
+    color: gray;
+    font-size: 10px;
+    font-family: Arial;
+    font-weight:bold;
+    margin-left: 10px;
+    margin-bottom: 20px;
+
+}
+
+.profile{
+   
+    height: 100px;
+}
+.profile{
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    border:solid;
+    border-color: gray;
+    border-width: 1px;
+    padding:12px;
+    height:50px;
+    border-radius: 5px;
+    box-shadow: inset 3px 3px 5px rgba(0,0,0,0.15);
+}
+.img1{
+    height:50px;
+    border-radius: 25px;
+    width:50px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.para2{
+    width:180px;
+    display: block;
+
+}
+.para3{
+    display:block;
+
+}
+.para2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.para3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:12px;
+}
+.para4{
+    font-size: 11px;
+    color:gray;
+}
+.t{
+    margin:0;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+color:gray;
+margin-left:140px;
+}
