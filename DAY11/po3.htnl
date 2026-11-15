@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Position</title>
+        <link rel="stylesheet" href="summane.css">
+    </head>
+    <body>
+<div class="header">
+    <div>
+        <img class="pfp" src="1.jpg">
+    </div>
+    <div class="p-name">
+Mimi The bird
+    </div class="add-button">
+    <button class="Ad">
+        Add friend
+    </button>
+    <div class="sim">
+        <button class="msg">
+            Message
+        </button>
+    </div>
+</div>
+    </body>
+</html>
