@@ -1,0 +1,43 @@
+.leftbar1{
+    background-color: black;
+    left:0;
+    top:0;
+    position: fixed;
+    bottom: 0;
+    right:400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.leftbar2{
+    background-color: rgba(0,0,0,0.8);
+    left:106px;
+    right:200px;
+    bottom:0;
+    top:0;
+    position: fixed;
+}
+
+img{
+    height:50px;
+    width: 50px;
+    border-radius: 25px;
+    margin:0;
+    margin-top:10px;
+    display: block;
+}
+.in{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding:8px;
+}
+.pl{
+    margin-left:100px;
+    color: gray;
+    font-size: 30px;
+}
+.hash1,.hash2,.hash3{
+    color: gray;
+    margin-bottom: 10px;
+}
+
